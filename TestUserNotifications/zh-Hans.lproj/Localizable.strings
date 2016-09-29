@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TestUserNotifications
+
+  Created by Baitianyu on 9/20/16.
+  Copyright © 2016 Baitianyu. All rights reserved.
+*/
+
+"TestLocalNotification" = "测试本地通知";
+"TestRemoteNotification" = "测试远程通知";
+"TestActionableNotification" = "测试可操作通知";
+"Remote Notification" = "我们程序员通常钟爱：%@ %@";

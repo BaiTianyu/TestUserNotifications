@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  TestUserNotifications
+
+  Created by Baitianyu on 9/20/16.
+  Copyright © 2016 Baitianyu. All rights reserved.
+*/
+
+"Remote Notification" = "我们程序员通常钟爱：%@ %@";
